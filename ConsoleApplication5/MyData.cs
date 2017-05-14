@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ConsoleApplication5
 {
-    public class Test
+    class MyData
     {
     }
 }
