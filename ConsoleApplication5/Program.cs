@@ -17,6 +17,7 @@ namespace ConsoleApplication5
             {
                 Console.Write("{0}\t", arr[i]);
             }
+
             Console.ReadLine();
         }
     }
