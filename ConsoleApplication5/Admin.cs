@@ -11,6 +11,7 @@ namespace ConsoleApplication5
         public Admin()
         {
             int i = 0;
+            int j = 0;
         }
     }
 }
