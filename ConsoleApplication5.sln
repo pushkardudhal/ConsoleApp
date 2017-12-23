@@ -12,6 +12,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{91CBCC
 		.nuget\NuGet.targets = .nuget\NuGet.targets
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CsharpBasics", "CsharpBasics\CsharpBasics.csproj", "{F4A5FE19-4232-485D-BFC2-BA5BAC7C2C0E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -22,6 +24,10 @@ Global
 		{D189CE26-238C-4239-AC27-23680A9F851F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D189CE26-238C-4239-AC27-23680A9F851F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D189CE26-238C-4239-AC27-23680A9F851F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4A5FE19-4232-485D-BFC2-BA5BAC7C2C0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4A5FE19-4232-485D-BFC2-BA5BAC7C2C0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4A5FE19-4232-485D-BFC2-BA5BAC7C2C0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4A5FE19-4232-485D-BFC2-BA5BAC7C2C0E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
