@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace ConsoleApplication5
 {
-    class Admin
+    public class Admin
     {
         public Admin()
         {
-
+            int i = 0;
         }
     }
 }
